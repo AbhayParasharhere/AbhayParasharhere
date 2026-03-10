@@ -8,7 +8,7 @@ BSc Computer Science with Co-op, Vancouver Island University (4.27 GPA, graduati
 
 ## 🔨 What I'm Currently Building
 
-- **[PowerCompass Pro](https://powercompasspro.com)** — Multi-tenant SaaS CRM replacing Microsoft Power Apps for a 300+ person non-profit. Sole developer. 95% stakeholder satisfaction. Launching July 2026.
+- **[PowerCompass Pro](https://powercompasspro.com)** — Multi-tenant SaaS CRM replacing Microsoft Power Apps for a 300+ person non-profit. Lead developer. 95% stakeholder satisfaction. Launching July 2026.
 - **AI Agent Channel — A&A Exports** — Automating client acquisition for a live manufacturing/export business using Next.js + Supabase + LLM tooling.
 ---
 
@@ -61,3 +61,4 @@ BSc Computer Science with Co-op, Vancouver Island University (4.27 GPA, graduati
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/parashar-abhay)
 [![Email](https://img.shields.io/badge/Email-abhayparasharr@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhayparasharr@gmail.com)
+
