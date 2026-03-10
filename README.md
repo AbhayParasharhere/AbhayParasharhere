@@ -1,6 +1,6 @@
 # Hi, I'm Abhay Parashar 
 
-**Full-stack engineer who builds real products for real users — from architecture through deployment.**
+**Full-stack engineer who loves to build real products for users — from architecture through deployment.**
 
 BSc Computer Science with Co-op, Vancouver Island University (4.27 GPA, graduating March 2026)  ·  2 years Canadian production experience  ·  Open to full-time software engineering roles in BC.
 
@@ -61,4 +61,5 @@ BSc Computer Science with Co-op, Vancouver Island University (4.27 GPA, graduati
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/parashar-abhay)
 [![Email](https://img.shields.io/badge/Email-abhayparasharr@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhayparasharr@gmail.com)
+
 
